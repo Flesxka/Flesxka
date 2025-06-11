@@ -1,2 +1,2 @@
- ![Commits](https://count.getloli.com/get/@Flesxka.github_commits?theme=moebooru-h&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=off)
+ ![Commits](https://count.getloli.com/get/@Flesxka.github_commits?theme=moebooru-h&padding=7&offset=0&align=top&scale=1&pixelated=1)
  # Это сколько раз люди загрузили Readme :) #
